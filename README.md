@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HRMS MERN Project
 A complete Human Resource Management System built with the MERN stack.
 
@@ -71,3 +72,6 @@ Set up a database cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas
 2. Import project to Vercel.
 3. Set Environment Variable: `VITE_API_BASE_URL` to your production backend URL.
 4. Deploy!
+=======
+# HR-Management-System
+>>>>>>> b0e14e4e78bf1f9c5fc8dff83cdffaf2520bfa48
