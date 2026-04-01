@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HRMS MERN Project
 A complete Human Resource Management System built with the MERN stack.
 
@@ -13,7 +12,7 @@ A complete Human Resource Management System built with the MERN stack.
 - Recruitment & Applicant Tracking
 
 ## Technologies Used
-**Frontend:** React (Vite), Tailwind CSS, React Router DOM, Axios, Lucide React
+**Frontend:** React (Vite), Tailwind CSS, React Router DOM, Axios, Lucide React  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT Auth, Multer, Cloudinary
 
 ## Setup Steps
@@ -72,6 +71,21 @@ Set up a database cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas
 2. Import project to Vercel.
 3. Set Environment Variable: `VITE_API_BASE_URL` to your production backend URL.
 4. Deploy!
-=======
-# HR-Management-System
->>>>>>> b0e14e4e78bf1f9c5fc8dff83cdffaf2520bfa48
+
+---
+
+## Deliverables
+- **GitHub Repository** — Source code with full commit history
+- **README.md** — Setup instructions and project documentation
+- **Database Schema / ER Diagram** — See [`ER_Diagram.md`](./ER_Diagram.md)
+- **Live Deployment Link** — *(Add your deployed URL here)*
+- **Postman Collection** — API testing collection; see [`Postman_Collection.json`](./Postman_Collection.json)
+
+## Evaluation Criteria
+| Criteria | Description |
+|---|---|
+| **Code Quality** | Clean, modular, and well-structured MERN codebase |
+| **UI/UX** | Modern, responsive design with role-based dashboards |
+| **Functionality** | All HR modules working end-to-end |
+| **Error Handling** | Proper API error responses and frontend feedback |
+| **Documentation** | README, ER diagram, and Postman collection included |
