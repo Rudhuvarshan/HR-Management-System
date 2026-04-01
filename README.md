@@ -78,7 +78,7 @@ Set up a database cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas
 - **GitHub Repository** — Source code with full commit history
 - **README.md** — Setup instructions and project documentation
 - **Database Schema / ER Diagram** — See [`ER_Diagram.md`](./ER_Diagram.md)
-- **Live Deployment Link** — *(Add your deployed URL here)*
+- **Video Preview Link** — [Click Here](https://drive.google.com/file/d/1lUZt2YY595ACwgGhi6skg5MHQSyLkbn3/view?usp=sharing)
 - **Postman Collection** — API testing collection; see [`Postman_Collection.json`](./Postman_Collection.json)
 
 ## Evaluation Criteria
